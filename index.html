@@ -1,13 +1,20 @@
 <html class="js" lang="en-US"><head>
-	
-	<script>
+<script>
 	window.onload = function() {
 	  var context = new AudioContext();
 	}
 	</script>
-	<audio autoplay>
-	      <source src="https://pl.meln.top/mr/f6a428e97724719e2e5ab099f21252c2.mp3?session_key=55026bda64a428b2327cf7b1f6efcbd8">
-	</audio>
+	</head>
+	<script>
+      function play() {
+        var audio = document.getElementById("audio");
+        audio.play();
+      }
+    </script>
+
+    <input type="button" value="PLAY" onclick="play()">
+    <audio id="audio" src="https://pl.meln.top/mr/f6a428e97724719e2e5ab099f21252c2.mp3?session_key=55026bda64a428b2327cf7b1f6efcbd8"></audio>
+
 
 
 	<meta charset="utf-8">
