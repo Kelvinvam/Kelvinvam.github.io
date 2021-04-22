@@ -1,0 +1,326 @@
+<html class="js" lang="en-US"><head>
+<script>
+	window.onload = function() {
+	  var context = new AudioContext();
+	}
+	</script>
+	</head>
+	<script>
+      function play() {
+        var audio = document.getElementById("audio");
+        audio.play();
+      }
+    </script>
+
+    <input type="button" value="PLAY" onclick="play()">
+    <audio id="audio" src="https://pl.meln.top/mr/f6a428e97724719e2e5ab099f21252c2.mp3?session_key=55026bda64a428b2327cf7b1f6efcbd8"></audio>
+
+
+
+	<meta charset="utf-8">
+		<meta name="theme-color" content="#181818">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css">
+
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>About - Kelvin</title>
+	<meta name="description" content="Kev seeks to partner with top founders and entrepreneurs to build lasting technology platforms and create long-term economic and societal value.">
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<link rel="canonical" href="https://kelvinvam.github.com">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="About - Kelvin">
+	<meta property="og:description" content="We shall go on to the end. We shall fight in space, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender. ">
+	<meta property="og:url" content="https://Kelvinvam.github.io/">
+	<meta property="og:site_name" content="Kev">
+	<meta property="article:modified_time" content="2020-12-01T18:17:21+00:00">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="krimo">
+	<script type="text/javascript" async="" src="https://data.processwebsitedata.com/rsv1/ProcessStats.aspx?host=https%3A//8vc.com&amp;host_name=8vc.com&amp;page=/about/&amp;query_string=&amp;anchor=&amp;title=About%2520-%25208VC&amp;cur_sess_id=&amp;cur_visitor_id=&amp;h=22&amp;m=0&amp;s=56&amp;account_id=aANRsiPLL0&amp;dgmt=Sat, 10 Apr 2021 05:00:56 GMT&amp;vresol=1440x900&amp;ref=https%3A//duckduckgo.com"></script><script type="text/javascript" async="" src="https://data.processwebsitedata.com/rsv1/Scripts/rsvliveasync.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://kelvinvam.github.com","url":"https://kelvinvam.github.com/","name":"Kev","description":"Kev is a Portland based venture capital firm investing in industry transforming companies.","potentialAction":[{"@type":"SearchAction","target":"https://kelvinvam.github.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://kelvinvam.github.com","url":"https://kelvinvam.github.com/about/","name":"About - Kev","isPartOf":{"@id":"https://kelvinvam.github.com/"},"datePublished":"2016-01-29T19:40:15+00:00","dateModified":"2020-12-01T18:17:21+00:00","description":"Kev seeks to partner with top founders and entrepreneurs to build lasting technology platforms and create long-term economic and societal value.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://kelvinvam.github.com/about/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="main-styles-css" href="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/css/styles.min.css?update=1605290920" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?update=1613571386" type="text/css" media="all">
+<link rel="stylesheet" id="wpgform-css-css" href="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/plugins/wpgform/css/wpgform.css?update=1595032511" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://8vc.com/wp-json/"><link rel="alternate" type="application/json" href="https://8vc.com/wp-json/wp/v2/pages/1828"><link rel="alternate" type="application/json+oembed" href="https://8vc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F8vc.com%2Fabout%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://8vc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F8vc.com%2Fabout%2F&amp;format=xml">
+			<script>
+
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			  ga('create', 'UA-74509902-2', 'auto');
+			  ga('send', 'pageview');
+
+			</script>
+		<link rel="icon" href="https://www.transparentpng.com/download/galaxy/totally-galaxy-png-transparent-15.png" sizes="32x32">
+<link rel="icon" href="https://www.transparentpng.com/download/galaxy/totally-galaxy-png-transparent-15.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.transparentpng.com/download/galaxy/totally-galaxy-png-transparent-15.png">
+<meta name="msapplication-TileImage" content="https://www.transparentpng.com/download/galaxy/totally-galaxy-png-transparent-15.png">
+
+</head>
+
+<body class="page-template-default page page-id-1828">
+
+	<header role="banner" class="global-header ">
+		<div class="container">
+			<a href="/" class="text">Kelvin Van</a><!-- /.logo -->
+			<nav id="global-nav" class="eight-nav eight-nav--global"><ul><li class="current-menu-item current_page_item"><a href="https://grabify.link/27DOQ6/" aria-current="page">About</a></li>
+<li><a href="https://grabify.link/27DOQ6/">Team</a></li>
+<li><a href="https://grabify.link/27DOQ6/">Companies</a></li>
+<li><a href="https://grabify.link/27DOQ6/">Community</a></li>
+<li><a href="https://grabify.link/27DOQ6/">Resources</a></li>
+<li class="nav-trigger-li"><button id="global-nav-trigger" class="nav-trigger"><!--?xml version="1.0" encoding="utf-8"?-->
+        <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 36" style="enable-background:new 0 0 50 36;" xml:space="preserve">
+        <style type="text/css">
+         .st0{fill:#888888;}
+     </style>
+     <rect class="st0" width="50" height="2"></rect>
+     <rect y="16" class="st0" width="50" height="2"></rect>
+     <rect y="32" class="st0" width="50" height="2"></rect>
+ </svg></button></li></ul></nav>		</div><!-- /.container -->
+	</header>
+
+	<div role="navigation" id="global-nav-pane" class="eight-nav-pane" style="height: 2422px;">
+		<button class="close close-icon">Close</button>
+		
+		<div style="max-width: 150px; margin: 0 auto;"><a class="logo-link" href="/"><img src="https://www.transparentpng.com/download/galaxy/totally-galaxy-png-transparent-15.png" alt="" class="sidebar-logo"></a></div><hr>
+
+		<div class="nav-pane-mobile"><ul><li class="current-menu-item current_page_item"><a href="https://grabify.link/27DOQ6/" aria-current="page">About</a></li>
+<li><a href="https://grabify.link/27DOQ6/">Team</a></li>
+<li><a href="https://grabify.link/27DOQ6/">Companies</a></li>
+<li><a href="https://grabify.link/27DOQ6/">Community</a></li>
+<li><a href="https://grabify.link/27DOQ6/">Resources</a>
+<ul class="sub-menu">
+	<li><a href="https://grabify.link/27DOQ6/">Overview</a></li>
+	<li><a href="https://grabify.link/27DOQ6/">Blog</a></li>
+	<li><a href="https://grabify.link/27DOQ6/">Whitepapers</a></li>
+	<li><a href="https://grabify.link/27DOQ6/">Bio-IT Thesis</a></li>
+</ul>
+</li>
+</ul></div>
+		<!-- <div class="nav-pane-desktop"><ul><li><a href="https://.com/resources/blog/">Blog</a></li>
+<li><a href="https://.com/resources/whitepapers/">Whitepapers</a></li>
+<li><a href="https://.com/fellowship/">Fellowship</a></li>
+</ul></div> -->
+
+
+		<div class="nav-about">
+			<p class="nav-about__blurb">
+				<a class="blurb-link blurb-link--hidden" href="https://winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches/" target="_blank">⡏⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠉⠉⠉⠹
+⡇⢸⣿⡟⠛⢿⣷⠀⢸⣿⡟⠛⢿⣷⡄⢸⣿⡇⠀⢸⣿⡇⢸⣿⡇⠀⢸⣿⡇⠀
+⡇⢸⣿⣧⣤⣾⠿⠀⢸⣿⣇⣀⣸⡿⠃⢸⣿⡇⠀⢸⣿⡇⢸⣿⣇⣀⣸⣿⡇⠀
+⡇⢸⣿⡏⠉⢹⣿⡆⢸⣿⡟⠛⢻⣷⡄⢸⣿⡇⠀⢸⣿⡇⢸⣿⡏⠉⢹⣿⡇⠀
+⡇⢸⣿⣧⣤⣼⡿⠃⢸⣿⡇⠀⢸⣿⡇⠸⣿⣧⣤⣼⡿⠁⢸⣿⡇⠀⢸⣿⡇⠀
+⣇⣀⣀⣀⣀⣀⣀⣄⣀⣀⣀⣀⣀⣀⣀⣠⣀⡈⠉⣁⣀⣄⣀⣀⣀⣠⣀⣀⣀⣰
+⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷
+⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇
+⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽
+⡗⢰⣶⣶⣦⣝⢝⢕⢕⠅⡆⢕⢕⢕⢕⢕⣴⠏⣠⡶⠛⡉⡉⡛⢶⣦⡀⠐⣕⢕
+⡝⡄⢻⢟⣿⣿⣷⣕⣕⣅⣿⣔⣕⣵⣵⣿⣿⢠⣿⢠⣮⡈⣌⠨⠅⠹⣷⡀⢱⢕
+⡝⡵⠟⠈⢀⣀⣀⡀⠉⢿⣿⣿⣿⣿⣿⣿⣿⣼⣿⢈⡋⠴⢿⡟⣡⡇⣿⡇⡀⢕
+⡝⠁⣠⣾⠟⡉⡉⡉⠻⣦⣻⣿⣿⣿⣿⣿⣿⣿⣿⣧⠸⣿⣦⣥⣿⡇⡿⣰⢗⢄
+⠁⢰⣿⡏⣴⣌⠈⣌⠡⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣬⣉⣉⣁⣄⢖⢕⢕⢕
+⡀⢻⣿⡇⢙⠁⠴⢿⡟⣡⡆⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣵⣵⣿
+⡻⣄⣻⣿⣌⠘⢿⣷⣥⣿⠇⣿⣿⣿⣿⣿⣿⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣷⢄⠻⣿⣟⠿⠦⠍⠉⣡⣾⣿⣿⣿⣿⣿⣿⢸⣿⣦⠙⣿⣿⣿⣿⣿⣿⣿⣿⠟
+⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠
+⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
+⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣</a>
+			</p>
+			<p class="nav-about__address">
+				<i class="icon-location"></i><br>
+				<a class="blurb-link" href="" target="_blank">666 street <br>
+USA Earth, Solar System Orion Arm, Milky Way Local Group, Virgo Supercluster Laniakea, Universe</a>
+			</p>
+			<p class="nav-about__facebook">
+				<img src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/img/fb-icon.png" alt="" height="13" style="display:inline-block;"><br>
+				<a class="blurb-link" href="https://grabify.link/27DOQ6/" target="_blank">@Kelvin</a>
+			</p>
+			<p class="nav-about__twitter">
+				<i class="icon-twitter"></i><br>
+				<a class="blurb-link" href="https://grabify.link/27DOQ6" target="_blank">@Kelvin</a>
+			</p>
+			<p class="nav-about__email">
+				<img src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/img/email-icon.png" alt="" height="13" style="display:inline-block;"><br>
+				<a class="blurb-link" href="mailto:vanc968@hsd.k12.or.us" target="_blank">vanc968@hsd.k12.or.us</a>
+			</p>
+			<p class="nav-about__lp">
+				<img src="https://i.gifer.com/7VA.gif" alt="" width="180" style="display:inline-block;"><br>
+				<a class="blurb-link" href="https://grabify.link/27DOQ6/" target="_blank">Tinder</a>
+			</p>
+			<p class="nav-about__careers">
+				<img src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/img/careers-icon.png" alt="" height="13" style="display:inline-block;"><br>
+				<a class="blurb-link" href="mailto:lookatme@gmail.com?subject=8VC%20Careers%20Application&amp;body=[Please%20attach%20your%20resume]" target="_blank">Careers</a>
+			</p>
+		</div><!-- /.nav-about -->
+	</div><!-- /#global-nav-pane -->
+
+	<div class="page-curtain">
+		<div class="page-curtain__curtain" style="background-color: "></div><!-- /.curtain -->
+	</div><!-- /.page-curtain -->
+
+	<section class="ceo-secondary-page">
+		<div class="curtain" style="background-color: "></div><!-- /.curtain -->
+		<button class="close close-icon">Close</button>
+		<div class="container">
+			<h1>This is other content</h1>
+			<h2>another subhead</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis reiciendis doloremque rem dolore temporibus! Laborum perferendis quasi dolore repellat, delectus inventore natus nobis unde sequi fuga cupiditate adipisci aliquid doloribus.</p>
+		</div><!-- /.container -->
+	</section><!-- /.curtain-page -->
+
+	<div class="remodal-bg remodal-is-closed">
+
+
+
+	<section role="document">
+		
+<section class="fc fc-fellowship_program_Banner theme--dark style--cover" style="background-image: url(https://i.pinimg.com/originals/a2/21/dc/a221dccd4a5e24cf2f4caf78f1751399.gif?quality=100&resize=940%2C400);">
+	<div class="banner-container">
+		<div class="acf-wysiwyg"></div>
+<p><!-- /.acf-wysiwyg --></p>
+	</div>
+
+	</section>
+
+	<section class="fc fc-floated_content text-center"><div id="video_image_slider" class="video_image_slider swipe" data-autostart="" data-pagination="" data-continual="" style="visibility: visible;"><div class="swipe-wrap" style="width: 2880px;"><div class="slide slide--right" data-index="0" style="width: 1440px; left: 0px; transition-duration: 0ms; transform: translateX(0px);"><div class="container container--no">
+				<div class="content">
+
+					<div class="blurb"><div class="acf-wysiwyg">
+<h2>Number 6: Man urinates on fellow passenger</h2>
+<p>Number 6: Man urinates on fellow passenger for not being allowed to smoke. An Algerian man was arrested in February 2016 on arrival of his flight, after causing a fight on the plane then urinating on another passenger. The incidents took place mid-air on an Air Méditerranée flight from Algiers to Paris. Halfway through his 90-minute route, one of the passengers was outraged because he wasn't allowed to smoke or drink alcohol on board. He later urinated on another passenger in protest, but the victim stood up and punched him. Cabin crew members managed to break up the fight and held down the disruptive passenger. The flight was diverted to Lyon, and the Algerian man along with the other man involved in the fight were escorted off the plane by police, upon landing. </p>
+<!--<p>&nbsp;</p>-->
+<p><a href="">Read more.</a></p></div>
+<p><!-- /.acf-wysiwyg --></p>
+</div><!-- /.blurb -->
+				</div><!-- /.content -->
+
+									<div class="video">
+						<video loop="" muted="" autoplay="" poster="https://8vc.com/wp-content/uploads/2019/10/header-image-06.png" class="">
+															
+									
+									<source src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/uploads/2016/02/8Partners-bokah.ogv" type="video/ogv">
+
+								
+									
+									<source src="https://media.giphy.com/media/KCSJ0Nm8bc5owOdngX/giphy.mp4" type="video/mp4">
+
+								
+									
+									<source src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/8Partners-bokah.webm" type="video/webm">
+
+																					</video>
+					</div><!-- /.video -->
+				
+				</div><!-- /.container --></div><!-- /.slide -->
+			</div><!-- /.swipe-wrap -->
+
+			<!-- /.pagination -->
+
+			</div><!-- /.video_image_slider -->
+
+			</section><!-- /.fc fc- -->
+
+			
+	<section class="fc fc-floated_content text-center"><div id="video_image_slider" class="video_image_slider swipe" data-autostart="" data-pagination="" data-continual="" style="visibility: visible;"><div class="swipe-wrap" style="width: 2880px;"><div class="slide slide--left" data-index="0" style="width: 1440px; left: 0px; transition-duration: 0ms; transform: translateX(0px);"><div class="container container--no">
+				<div class="content">
+
+					<div class="blurb"><div class="acf-wysiwyg">
+<h2>Do it!</h2>
+<p>DO IT, just DO IT! Don’t let your dreams be dreams. Yesterday, you said tomorrow. So just. DO IT! Make. your dreams. COME TRUE! Just… do it! Some people dream of success, while you’re gonna wake up and work HARD at it! NOTHING IS IMPOSSIBLE!You should get to the point where anyone else would quit, and you’re not gonna stop there. NO! What are you waiting for? … DO IT! Just… DO IT! Yes you can! Just do it! If you’re tired of starting over, stop. giving. up. <a href="">Go fuck off and do it.</a></p></div>
+<p><!-- /.acf-wysiwyg --></p>
+</div><!-- /.blurb -->
+				</div><!-- /.content -->
+
+									<div class="image">
+						<img src="https://media.giphy.com/media/l1VEBYpull9kuRCXmZ/giphy.gif" alt="">
+					</div><!-- /.image -->
+
+				
+				</div><!-- /.container --></div><!-- /.slide -->
+			</div><!-- /.swipe-wrap -->
+
+			<!-- /.pagination -->
+
+			</div><!-- /.video_image_slider -->
+
+			</section><!-- /.fc fc- -->
+
+				</section>
+
+<section class="blog-email-signup">
+	<div class="container">
+		<div class="blurb">
+			Get the latest BOMBS straight to your inbox.
+		</div><!-- /.blurb -->
+		<form action="/" class="signup-form">
+
+			<input type="email" name="signup_email" placeholder="Enter your email...">
+
+			<div class="message text-center">Thanks!</div><!-- /.message -->
+			<button type="submit"></button>
+		</form>
+	</div><!-- /.container -->
+</section><!-- /.blog-email-signup -->
+
+
+<!-- /.remodal remodal--email-signup -->
+
+</div>
+<!-- .remodal-bg closing tag -->
+
+<script type="text/javascript">
+	var dpwdrsid = 'aANRsiPLL0';
+	var dpwdrs_BaseURL = (("https:" == document.location.protocol) ? "https://data.processwebsitedata.com/rsv1/" : "http://data.processwebsitedata.com/rsv1/");
+	(function() {
+		var va = document.createElement('script');
+		va.type = 'text/javascript';
+		va.async = true;
+		va.src = dpwdrs_BaseURL + 'Scripts/rsvliveasync.js';
+		var sv = document.getElementsByTagName('script')[0];
+		sv.parentNode.insertBefore(va, sv);
+	})();
+</script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
+<script src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/js/vendor/js-cookie.js"></script>
+<script src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/js/vendor/swipe.min.js"></script>
+<script src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/js/vendor/remodal.min.js"></script>
+
+<script type="text/javascript" src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-includes/js/underscore.min.js?update=1611674313" id="underscore-js"></script>
+<script type="text/javascript" src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/js/dist/vendors.min.js?update=1594048094" id="vendors-js-js"></script>
+<script type="text/javascript" id="main-js-js-extra">
+/* <![CDATA[ */
+var SITEVARS = {"ajaxurl":"https:\/\/8vc.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/js/dist/main.min.js?update=1605210292" id="main-js-js"></script>
+
+
+
+
+<div class="remodal-overlay remodal-is-closed" style="display: none;"></div><div class="remodal-wrapper remodal-is-closed" style="display: none;"><div class="eight-modal eight-modal--email-signup remodal remodal-is-initialized remodal-is-closed" data-remodal-id="email-signup" data-remodal-options="hashTracking: false" tabindex="-1">
+	<button data-remodal-action="close" class="remodal-close close-icon">Close</button>
+	<img src="https://yd8wjyhx80f1ew43mmsyqxua-wpengine.netdna-ssl.com/wp-content/themes/8partners/assets/img/modal-email-signup.png" srcset="https://8vc.com/wp-content/themes/8partners/assets/img/modal-email-signup@2x.png 2x" width="81" height="81" alt="">
+	<p>Get the latest BOMBS straight to your inbox.</p>
+	<form class="signup-form" action="/">
+
+		<input type="text" value="" required="required" name="FNAME" class="" placeholder="First Name" id="mce-FNAME">
+		<input type="text" value="" required="required" name="LNAME" class="" placeholder="Last Name" id="mce-LNAME">
+		<input type="text" value="" required="required" name="MMERGE3" class="" placeholder="Company" id="mce-MMERGE3">
+		<input type="email" name="signup_email" required="required" placeholder="Email">
+
+		<div class="message text-center">Thanks!</div><!-- /.message -->
+		<button type="submit" class="button button--square">Submit</button>
+	</form>
+</div></div></body></html>
